@@ -3,8 +3,7 @@
   <id>selenium</id>
   <allowPartial>true</allowPartial>
   <sources>
-    <source>src/main/java/Example.java</source>
-  </sources>
+  :</sources>
   <resources>
   </resources>
   <testSources>
